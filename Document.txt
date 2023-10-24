@@ -1,0 +1,1 @@
+Saf JavaScript ve DOM (Belge Nesne Modeli) kullanılarak oluşturulmuş bir web sayfasıdır.The Movie Database (TMDb) API'sini kullanarak popüler filmleri veya kullanıcının arama terimine göre filmleri getirip görüntülemek için basit bir arayüz sağlar
